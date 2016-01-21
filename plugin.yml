@@ -1,0 +1,13 @@
+name: Broadcast
+version: 0.1
+api: [1.0.0]
+author: TylerGamesTV
+main: Makn\Main
+commands:
+  example:
+    description: Broadcast A Message
+    usage: "/example"
+    permission: example.command
+permissions:
+  example.command:
+    default: true
