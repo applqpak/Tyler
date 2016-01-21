@@ -2,7 +2,7 @@ name: Broadcast
 version: 0.1
 api: [1.0.0]
 author: TylerGamesTV
-main: Makn\Main
+main: Main\Main
 commands:
   example:
     description: Broadcast A Message
