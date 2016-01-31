@@ -14,6 +14,8 @@
 
         $this->getServer()->broadcastMessage($sender->getDisplayName() . " just used my /example command!");
 
+        return true;
+
       }
 
     }
